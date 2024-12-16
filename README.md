@@ -18,7 +18,7 @@ This project consists of a Video Translation AI application with a React fronten
 
 2. Navigate to the frontend directory:
    ```bash
-   cd face_swap_frontend
+   cd video-translation-frontend
    ```
 
 3. Install dependencies:
@@ -65,7 +65,7 @@ webhookUrl: "https://your-ngrok-url.ngrok-free.app/api/webhook"
 
 2. Navigate to the backend directory:
    ```bash
-   cd face_swap_webhook
+   cd video-translation-webhook-backend
    ```
 
 3. Install dependencies:
