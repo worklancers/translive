@@ -1,4 +1,4 @@
-# Akool Video Translation AI Application
+# Translive Video Translation AI Application
 
 This project consists of a Video Translation AI application with a React frontend and Flask backend. The application allows users to translate videos to different languages along with lip sync.
 
